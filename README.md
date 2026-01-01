@@ -2,7 +2,7 @@
 
 I am `Nguyen Phuong Linh`, an undergraduate student from NTU, Singapore.
 
-- 📚 About-to-graduate Computer Science major student
+- 📚 Computer Science major student
 - 💜 Interest: DSA/Leetcode + Codeforces
 - 👩‍💻 Backend: FastAPI/Python, SpringBoot/Java, NestJS/Typescript
 - 🌐About me: From Vietnam, based in Singapore
