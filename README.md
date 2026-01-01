@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! 👋🏻
 
-<!--
-**linhh011202/linhh011202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am `Nguyen Phuong Linh`, an undergraduate student from NTU, Singapore.
 
-Here are some ideas to get you started:
+- 📚 About-to-graduate Computer Science major student
+- 💜 Interest: DSA/Leetcode + Codeforces
+- 👩‍💻 Backend: FastAPI/Python, SpringBoot/Java, NestJS/Typescript
+- 🌐About me: From Vietnam, based in Singapore
+  
+**Highlighted projects:**
+- [SC2079 Multidisplinary Design Project](https://github.com/linhh011202/MDP)
+- [SC4053 Blockchain Technology](https://github.com/linhh011202/TrustNode)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
