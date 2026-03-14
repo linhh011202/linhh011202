@@ -11,6 +11,12 @@ I am `Nguyen Phuong Linh`, an undergraduate student from NTU, Singapore.
 - [SC2079 Multidisplinary Design Project](https://github.com/linhh011202/MDP)
 - [SC4053 Blockchain Technology](https://github.com/linhh011202/TrustNode)
 
+**The proudest project: Banking eKYC app:**
+-[Face-matching-worker](https://github.com/linhh011202/face_matching)
+-[Kubernetes config](https://github.com/linhh011202/gke_banking_ekyc)
+-[Backend-Identity-Service](https://github.com/linhh011202/identity_service_banking_ekyc)
+-[Android eKYC-setup](https://github.com/linhh011202/banking_ekyc)
+
 # 🏆Leetcode Stats: 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/linhxinh02?theme=light&font=Miriam%20Libre&ext=heatmap)
